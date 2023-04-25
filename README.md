@@ -1,5 +1,21 @@
 # SQL_Atliq-Hardware_CodeBasics_Challenge_4 
 
+
+Ad-Hoc-Analysis
+
+<h6>Domain: Consumer Goods | Function: Executive Management</h6>
+
+<h4>TASK : Provide Insights to Management in Consumer Goods Domain</h4>
+
+Atliq Hardwares (imaginary company) is one of the leading computer hardware producers in India and well expanded in other countries too.
+
+However, the management noticed that they do not get enough insights to make quick and smart data-informed decisions. 
+so they to conduct a SQL challenge or ad-hock requests which will help them to get better insights of company's performance.
+
+
+------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+
 SQL Script File : AnswersScript.SQL
 
 DataSource : https://codebasics.io/challenge/codebasics-resume-project-challenge  (goto challenge-4) 
