@@ -15,7 +15,7 @@ AND region = 'APAC'
 declare @unique_products_2020 AS INT
 declare @unique_products_2021 AS INT
 
-with unique_prod2020_CTE AS (
+;with unique_prod2020_CTE AS (
 select product_code, COUNT(product_code) as 'UniqueCount'
 from [gdb023].[fact_sales_monthly] nolock 
 where fiscal_year = 2020
@@ -23,7 +23,7 @@ group by product_code
 ) 
 select @unique_products_2020 = Count(product_code) from unique_prod2020_CTE;
 
-with unique_prod2021_CTE AS (
+;with unique_prod2021_CTE AS (
 select product_code, COUNT(product_code) as 'UniqueCount'
 from [gdb023].[fact_sales_monthly] nolock 
 where fiscal_year = 2021
@@ -144,7 +144,7 @@ ORDER BY 3 desc
 -- The final report contains these columns: Month, Year, Gross sales Amount
 
 
-WITH CTE1 AS (
+;WITH CTE1 AS (
 select 
 	DATEPART(MONTH,FSM.[date]) AS 'Month',
 	DATENAME(month,FSM.[date]) AS 'Month Name',
@@ -204,7 +204,7 @@ drop table #TT1
 -- The final output contains these fields  : division, product_code, product, total_sold_quantity, rank_order
 
 
-WITH CTE_T1 AS(
+;WITH CTE_T1 AS(
 SELECT  
 	division, PRD.product_code, product, SUM(sold_quantity) AS 'total_sold_quantity',
 	ROW_NUMBER() OVER (PARTITION BY division order by SUM(sold_quantity) desc) AS 'rank_order'
