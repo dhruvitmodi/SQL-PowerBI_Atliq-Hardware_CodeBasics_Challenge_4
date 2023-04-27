@@ -18,6 +18,8 @@ so they to conduct a SQL challenge or ad-hock requests which will help them to g
 
 SQL Script File : AnswersScript.SQL
 
+PowerBI File : Challenge-4-Atliq-Exclusive.pbix
+
 DataSource : https://codebasics.io/challenge/codebasics-resume-project-challenge  (goto challenge-4) 
 
 ------------------------------------------------------------------------------------------------------------------------------------------------------------
