@@ -34,3 +34,13 @@ and for all Raw files and challenge related info/files, kindly check codebasics 
  - Sample ScreenShot of "AnswersScript.SQL" file
 
 ![Screenshot 2023-04-25 195346](https://user-images.githubusercontent.com/19344819/234307938-7a37c8d0-7502-4bd8-9fc8-f88711f41f5a.png)
+
+
+ - PowerBI Dashboard for all Ad-hock requests 
+ 
+![1](https://user-images.githubusercontent.com/19344819/234819218-196b0989-62df-4adc-82f6-4d03116b36f4.PNG)
+
+![2](https://user-images.githubusercontent.com/19344819/234819253-137a04ba-6a12-490e-82b4-85cf220b5e73.PNG)
+
+
+ 
