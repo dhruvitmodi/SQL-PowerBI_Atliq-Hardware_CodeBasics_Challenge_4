@@ -18,6 +18,8 @@ so they to conduct a SQL challenge or ad-hock requests which will help them to g
 
 SQL Script File : AnswersScript.SQL
 
+StoreProcedures : StoreProcedures-AdHock-Questions.SQL
+
 PowerBI File : Challenge-4-Atliq-Exclusive.pbix
 
 DataSource : https://codebasics.io/challenge/codebasics-resume-project-challenge  (goto challenge-4) 
@@ -30,12 +32,15 @@ So first, I create load database in MySql, then create new database in MS-SQL se
 
 After that, I begin work on project, ad-hock-request one by one.
 
-You can get Both Request and Answers (SQL Code) in "AnswersScript.SQL" in above code section, 
+Then, For visualization I created StoreProcedures for Each requests in SQL, Import those SPs into PowerBI and create dashboard for each requests.
+
+You can get Both Request and Answers (SQL Code) in "AnswersScript.SQL" as well as all store Procedures "StoreProcedures-AdHock-Questions.SQL" in above code section, 
 and for all Raw files and challenge related info/files, kindly check codebasics website link I mentioned in DataSource above.
 
  - Sample ScreenShot of "AnswersScript.SQL" file
 
 ![Screenshot 2023-04-25 195346](https://user-images.githubusercontent.com/19344819/234307938-7a37c8d0-7502-4bd8-9fc8-f88711f41f5a.png)
+
 
 
  - PowerBI Dashboard for all Ad-hock requests 
