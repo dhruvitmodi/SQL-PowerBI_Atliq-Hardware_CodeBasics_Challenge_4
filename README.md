@@ -44,10 +44,9 @@ and for all Raw files and challenge related info/files, kindly check codebasics 
 
 
  - PowerBI Dashboard for all Ad-hock requests 
- 
-![1](https://user-images.githubusercontent.com/19344819/234819218-196b0989-62df-4adc-82f6-4d03116b36f4.PNG)
-
-![2](https://user-images.githubusercontent.com/19344819/234819253-137a04ba-6a12-490e-82b4-85cf220b5e73.PNG)
 
 
+![N1](https://user-images.githubusercontent.com/19344819/235077877-4973e93d-6f48-48bb-8023-ce21c71d300e.PNG)
+
+![N2](https://user-images.githubusercontent.com/19344819/235077919-5f006767-1e98-4d53-a3c5-fb9135e2b1d7.PNG)
  
