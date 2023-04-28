@@ -1,4 +1,4 @@
-# SQL_Atliq-Hardware_CodeBasics_Challenge_4 
+# SQL-PowerBI_Atliq-Hardware_CodeBasics_Challenge_4 
 
 
 Ad-Hoc-Analysis
